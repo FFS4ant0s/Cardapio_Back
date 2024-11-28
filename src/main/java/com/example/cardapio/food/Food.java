@@ -1,4 +1,4 @@
-package com.example.cardapio.controller;
+package com.example.cardapio.food;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
